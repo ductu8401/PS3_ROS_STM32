@@ -1,0 +1,2 @@
+joystick_drivers/joy:joystick_drivers/joystick_drivers:joystick_drivers/spacenav_node:ps3/ps3:ps3/send_speed
+-DCATKIN_DEVEL_PREFIX=/home/tu2022/ps3_1/devel -DCMAKE_INSTALL_PREFIX=/home/tu2022/ps3_1/install -G Unix Makefiles
